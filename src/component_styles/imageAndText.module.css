@@ -120,7 +120,7 @@
     margin-right: 0;
   }
   .imageAndText {
-    flex-direction: column;
+    flex-direction: column !important;
   }
   .imageContainer {
     height: auto;
